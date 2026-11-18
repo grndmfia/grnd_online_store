@@ -681,6 +681,13 @@ const PRODUCTS = [
       
 ],
 },    
+
+{ id: 81, name: "Glass", category:"glasses", price: 45000,
+image:[ "s1.jpg",
+
+]
+},
+
 ];
 
 
