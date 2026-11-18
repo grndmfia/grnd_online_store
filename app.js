@@ -682,7 +682,7 @@ const PRODUCTS = [
 ],
 },    
 
-{ id: 82, name: "Glass", category:"glasses", price: 45000,
+{ id: 83, name: "Glass", category:"glass", price: 45000,
 image:[ "s1.jpg",
 
 ]
