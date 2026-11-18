@@ -728,7 +728,7 @@ image:[ "s8.jpg",
 ]
 },
 
-{ id: 90, name: "", category:"glass", price: 45000,
+{ id: 90, name: "Ray-Ban RB4306 Polarized Sunglasses", category:"glass", price: 45000,
 image:[ "s9.jpg",
 
 ]
