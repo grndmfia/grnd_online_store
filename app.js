@@ -727,6 +727,35 @@ image:[ "s8.jpg",
 
 ]
 },
+
+{ id: 90, name: "", category:"glass", price: 45000,
+image:[ "s9.jpg",
+
+]
+},
+
+{ id: 91, name: "Ray-Ban Original Wayfarer ", category:"glass", price: 45000,
+image:[ "sb.jpg",
+
+]
+},
+
+{ id: 92, name: "Glass", category:"glass", price: 45000,
+image:[ "sc.jpg",
+
+]
+},
+
+{ id: 93, name: "LOEWE Anagram Square-Frame Metal Sunglasses ", category:"glass", price: 45000,
+image:[ "sh.jpg",
+
+]
+},
+
+
+
+];
+];
 ];
 
 
