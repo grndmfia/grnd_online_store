@@ -682,8 +682,19 @@ const PRODUCTS = [
 ],
 },    
 
-{ id: 83, name: "Glass", category:"glass", price: 45000,
+{ id: 83, name: "Oversized double-bridge aviator sunglasses", category:"glass", price: 45000,
 image:[ "s1.jpg",
+
+]
+},
+{ id: 84, name: "Saint Laurent SL M152 (or SL M152/F) sunglasses", category:"glass", price: 45000,
+image:[ "s2.jpg",
+
+]
+},
+
+{ id: 85, name: " Celine Triomphe 01 Sunglasses", category:"glass", price: 45000,
+image:[ "s3.jpg",
 
 ]
 },
