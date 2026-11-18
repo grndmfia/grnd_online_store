@@ -698,7 +698,35 @@ image:[ "s3.jpg",
 
 ]
 },
+{ id: 85, name: "Brown cat-eye sunglasses ", category:"glass", price: 45000,
+image:[ "s4.jpg",
 
+]
+},
+
+{ id: 86, name: "CELINE Bold 3 Dots Square Sunglasses", category:"glass", price: 45000,
+image:[ "s5.jpg",
+
+]
+},
+
+{ id: 87, name: " Miu Miu Glimpse sunglasses", category:"glass", price: 45000,
+image:[ "s6.jpg",
+
+]
+},
+
+{ id: 88, name: "Ray-Ban Original Wayfarer Classic", category:"glass", price: 45000,
+image:[ "s7.jpg",
+
+]
+},
+
+{ id: 89, name: "Ray-Ban RB3708", category:"glass", price: 45000,
+image:[ "s8.jpg",
+
+]
+},
 ];
 
 
