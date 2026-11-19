@@ -65,7 +65,7 @@ const PRODUCTS = [
       "nikec.jpg",
          ]
         },
-    { id: 3, name: "Chrome Hearts T-shirt", category: "drip", price: 80000,
+    { id: 95, name: "Chrome Hearts T-shirt", category: "drip", price: 80000,
       description: "#Heavy Wear!",
       image: "chrme.jpg",
       images: ["chrme.jpg",
@@ -698,7 +698,7 @@ image:[ "s3.jpg",
 
 ]
 },
-{ id: 85, name: "Brown cat-eye sunglasses ", category:"glass", price: 45000,
+{ id: 94, name: "Brown cat-eye sunglasses ", category:"glass", price: 45000,
 image:[ "s4.jpg",
 
 ]
