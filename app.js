@@ -741,9 +741,9 @@ image:[ "sb.jpg",
 },
 
 { id: 93, name: "LOEWE Anagram Square-Frame Metal Sunglasses ", category:"glass", price: 45000,
-image:[ "sh.jpg",
+image: "sh.jpg",
 
-]
+
 },
 
 ];
