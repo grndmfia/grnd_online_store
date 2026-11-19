@@ -740,17 +740,67 @@ image: "sb.jpg",
 
 },
 
-{ id: 93, name: "LOEWE Anagram Square-Frame Metal Sunglasses ", category:"glass", price: 45000,
-image: "sh.jpg",
+{ id: 93, name: "Miu Miu Glimpse Oval Sunglasses ", category:"glass", price: 45000,
+image: "se.jpg",
 },
 
 { id: 96, name: "CELINE 3 Dots Cat-Eye", category:"glass", price: 45000,
-image: "si.jpg",
+image: "sf.jpg",
+},
+
+{ id: 101, name: "LOEWE square-frame metal sunglasses", category:"glass", price: 45000,
+image: "sg.jpg",
+},
+
+{ id: 102, name: "Saint Laurent SL M94 Sunglasses", category:"glass", price: 45000,
+image: "sh.jpg",
 },
 
 
+{ id: 97, name: "Tom Ford Bronson (FT1044) Sunglasses", category:"glass", price: 45000,
+image: "si.jpg",
+},
+
+{ id: 98, name: "CELINE Triomphe Metal 01 Oval Sunglasses", category:"glass", price: 45000,
+image: "sj.jpg",
+},
+
+{ id: 97, name: "Tom Ford Haylay Sunglasses", category:"glass", price: 45000,
+image: "sk.jpg",
+},
 
 
+{ id: 98, name: "Bottega Veneta Drop Aviator Sunglasses", category:"glass", price: 45000,
+image: "sl.jpg",
+},
+
+{ id: 99, name: "Tom Ford Bronson", category:"glass", price: 45000,
+image: "sm.jpg",
+},
+
+{ id: 100, name: "Tom Ford Karmen", category:"glass", price: 45000,
+image: "sn.jpg",
+},
+
+{ id: 103, name: "translucent brown rectangular acetate frame ", category:"glass", price: 45000,
+image: "so.jpg",
+},
+
+{ id: 104, name: "TOM FORD Icon Pilot Sunglasses", category:"glass", price: 45000,
+image: "sp.jpg",
+},
+
+{ id: 105, name: "oversized black acetate aviator sunglasses", category:"glass", price: 45000,
+image: "sq.jpg",
+},
+
+{ id: 106, name: "rimless teardrop-temple sunglasses", category:"glass", price: 45000,
+image: "sr.jpg",
+},
+
+{ id: 107, name: "CELINE Black Acetate Square Sunglasses,", category:"glass", price: 45000,
+image: "ss.jpg",
+},
 
 ];
 
