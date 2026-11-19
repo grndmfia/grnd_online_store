@@ -683,68 +683,74 @@ const PRODUCTS = [
 },    
 
 { id: 83, name: "Oversized double-bridge aviator sunglasses", category:"glass", price: 45000,
-image:[ "s1.jpg",
+image: "s1.jpg",
 
-]
+
 },
 { id: 84, name: "Saint Laurent SL M152 (or SL M152/F) sunglasses", category:"glass", price: 45000,
-image:[ "s2.jpg",
+image:"s2.jpg",
 
-]
+
 },
 
 { id: 85, name: " Celine Triomphe 01 Sunglasses", category:"glass", price: 45000,
-image:[ "s3.jpg",
+image: "s3.jpg",
 
-]
+
 },
 { id: 94, name: "Brown cat-eye sunglasses ", category:"glass", price: 45000,
-image:[ "s4.jpg",
+image:"s4.jpg",
 
-]
+
 },
 
 { id: 86, name: "CELINE Bold 3 Dots Square Sunglasses", category:"glass", price: 45000,
-image:[ "s5.jpg",
+image:"s5.jpg",
 
-]
+
 },
 
 { id: 87, name: " Miu Miu Glimpse sunglasses", category:"glass", price: 45000,
-image:[ "s6.jpg",
+image:"s6.jpg",
 
-]
+
 },
 
 { id: 88, name: "Ray-Ban Original Wayfarer Classic", category:"glass", price: 45000,
-image:[ "s7.jpg",
+image:"s7.jpg",
 
-]
+
 },
 
 { id: 89, name: "Ray-Ban RB3708", category:"glass", price: 45000,
-image:[ "s8.jpg",
+image:"s8.jpg",
 
-]
+
 },
 
 { id: 90, name: "Ray-Ban RB4306 Polarized Sunglasses", category:"glass", price: 45000,
-image:[ "s9.jpg",
+image:"s9.jpg",
 
-]
+
 },
 
 { id: 91, name: "Ray-Ban Original Wayfarer ", category:"glass", price: 45000,
-image:[ "sb.jpg",
+image: "sb.jpg",
 
-]
+
 },
 
 { id: 93, name: "LOEWE Anagram Square-Frame Metal Sunglasses ", category:"glass", price: 45000,
 image: "sh.jpg",
-
-
 },
+
+{ id: 96, name: "CELINE 3 Dots Cat-Eye", category:"glass", price: 45000,
+image: "si.jpg",
+},
+
+
+
+
 
 ];
 
