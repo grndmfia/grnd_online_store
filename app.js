@@ -955,41 +955,45 @@ images: ["k2.jpg",
 "kc.jpg"],
 },
 
-{id: 182, name: "", category:"nec", price: 35000,
+{id: 182, name: "Gold-Tone Classic Round Crystal Tennis Bracelet ", category:"nec", price: 35000,
 image: "nec.jpg",
 },
 
-{id: 183, name: "", category:"nec", price: 35000,
+{id: 183, name: "Silver-Tone Flower & Marquise Crystal Tennis Bracelet ", category:"nec", price: 35000,
 image: "neca.jpg",
 },
 
-{id: 184, name: "", category:"nec", price: 35000,
-image: "necb.jpg",
+{id: 184, name: "Rose Gold Flower & Marquise Crystal Tennis Bracelet", category:"nec", price: 35000,
+image: "neb.jpg",
 },
-{id: 185, name: "", category:"nec", price: 35000,
+{id: 185, name: "Silver-Tone Baguette-Cut Crystal Tennis Bracelet ", category:"nec", price: 35000,
 image: "necc.jpg",
 },
 
 
-{id: 186, name: "", category:"nec", price: 35000,
+{id: 186, name: "Silver-Tone Flower & Marquise Crystal Tennis Bracelet  ", category:"nec", price: 35000,
 image: "necd.jpg",
 },
 
 
-{id: 187, name: "", category:"nec", price: 35000,
+{id: 187, name: "Gold-Tone Oval Amber/Yellow Crystal Stretch Bracelet  ", category:"nec", price: 35000,
 image: "wa.jpg",
 },
 
-{id: 188, name: "", category:"nec", price: 35000,
+{id: 188, name: "Gold-Tone Champagne Crystal Clover Statement Bracelet  ", category:"nec", price: 35000,
 image: "wb.jpg",
 },
 
 
-{id: 189, name: "", category:"nec", price: 35000,
+{id: 189, name: "Gold-Tone Rectangular Peach/Blush Crystal Stretch Bracelet ", category:"nec", price: 35000,
 image: "wc.jpg",
 },
-{id: 190, name: "", category:"nec", price: 35000,
+{id: 190, name: "Silver-Tone Oval Clear Crystal Stretch Bracelet  ", category:"nec", price: 35000,
 image: "wd.jpg",
+},
+
+{id: 191, name: "Gold-Tone Oval Crystal & Floral Cluster Stretch Bracelet  ", category:"nec", price: 35000,
+image: "we.jpg",
 },
 
 ];
