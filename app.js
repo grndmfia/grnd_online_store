@@ -948,30 +948,30 @@ image: "lm.jpg",
 image: "ln.jpg",
 },
 
-{id: 181, name: "Iridescent rhinestone multi-strand waist chain  ", category:"nec", price: 35000,
+{id: 181, name: "Iridescent rhinestone multi-strand waist chain  ", category:"nec", price: 25000,
 image: "kb.jpg",
 images: ["k2.jpg",
 "ka.jpg",
 "kc.jpg"],
 },
 
-{id: 182, name: "Gold-Tone Classic Round Crystal Tennis Bracelet ", category:"nec", price: 35000,
+{id: 182, name: "Gold-Tone Classic Round Crystal Tennis Bracelet ", category:"nec", price: 30000,
 image: "nec.jpg",
 },
 
-{id: 183, name: "Silver-Tone Flower & Marquise Crystal Tennis Bracelet ", category:"nec", price: 35000,
+{id: 183, name: "Silver-Tone Flower & Marquise Crystal Tennis Bracelet ", category:"nec", price: 30000,
 image: "neca.jpg",
 },
 
-{id: 184, name: "Rose Gold Flower & Marquise Crystal Tennis Bracelet", category:"nec", price: 35000,
+{id: 184, name: "Rose Gold Flower & Marquise Crystal Tennis Bracelet", category:"nec", price: 30000,
 image: "neb.jpg",
 },
-{id: 185, name: "Silver-Tone Baguette-Cut Crystal Tennis Bracelet ", category:"nec", price: 35000,
+{id: 185, name: "Silver-Tone Baguette-Cut Crystal Tennis Bracelet ", category:"nec", price: 30000,
 image: "necc.jpg",
 },
 
 
-{id: 186, name: "Silver-Tone Flower & Marquise Crystal Tennis Bracelet  ", category:"nec", price: 35000,
+{id: 186, name: "Silver-Tone Flower & Marquise Crystal Tennis Bracelet  ", category:"nec", price: 30000,
 image: "necd.jpg",
 },
 
