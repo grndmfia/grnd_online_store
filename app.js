@@ -948,8 +948,11 @@ image: "lm.jpg",
 image: "ln.jpg",
 },
 
-{id: 168, name: "", category:"nec", price: 35000,
-image: ".jpg",
+{id: 168, name: "Iridescent rhinestone multi-strand waist chain  ", category:"nec", price: 35000,
+image: "kb.jpg",
+images: ["k2.jpg",
+"ka.jpg",
+"kc.jpg"],
 },
 
 
