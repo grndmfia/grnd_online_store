@@ -975,6 +975,23 @@ image: "necc.jpg",
 image: "necd.jpg",
 },
 
+
+{id: 187, name: "", category:"nec", price: 35000,
+image: "wa.jpg",
+},
+
+{id: 188, name: "", category:"nec", price: 35000,
+image: "wb.jpg",
+},
+
+
+{id: 189, name: "", category:"nec", price: 35000,
+image: "wc.jpg",
+},
+{id: 190, name: "", category:"nec", price: 35000,
+image: "wd.jpg",
+},
+
 ];
 
 
