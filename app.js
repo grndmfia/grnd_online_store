@@ -917,6 +917,44 @@ image: "ay.jpg",
 image: "az.jpg",
 },
 
+
+{id: 168, name: "", category:"nec", price: 35000,
+image: "la.jpg",
+},
+{id: 169, name: "", category:"nec", price: 35000,
+image: "lb.jpg",
+},
+{id: 170, name: "", category:"nec", price: 35000,
+image: "lc.jpg",
+},{id: 171, name: "", category:"nec", price: 35000,
+image: "ld.jpg",
+},{id: 172, name: "", category:"nec", price: 35000,
+image: "le.jpg",
+},{id: 173, name: "", category:"nec", price: 35000,
+image: "lf.jpg",
+},{id: 174, name: "", category:"nec", price: 35000,
+image: "lg.jpg",
+},{id: 175, name: "", category:"nec", price: 35000,
+image: "lh.jpg",
+},{id: 176, name: "", category:"nec", price: 35000,
+image: "li.jpg",
+},{id: 177, name: "", category:"nec", price: 35000,
+image: "lj.jpg",
+},{id: 178, name: "", category:"nec", price: 35000,
+image: "lk.jpg",
+},{id: 179, name: "", category:"nec", price: 35000,
+image: "lm.jpg",
+},{id: 180, name: "", category:"nec", price: 35000,
+image: "ln.jpg",
+},
+
+{id: 168, name: "", category:"nec", price: 35000,
+image: ".jpg",
+},
+
+
+
+
 ];
 
 
