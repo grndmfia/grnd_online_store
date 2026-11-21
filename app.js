@@ -278,7 +278,7 @@ const PRODUCTS = [
        { id: 12, name: "NY Cap", category: "drip", price: 25000,
       description: "Head-gear.",
       image: "ny.jpg",
-      images: [".jpg"],
+      images: ["ny.jpg"],
        },
       
       
