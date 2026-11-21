@@ -948,15 +948,32 @@ image: "lm.jpg",
 image: "ln.jpg",
 },
 
-{id: 168, name: "Iridescent rhinestone multi-strand waist chain  ", category:"nec", price: 35000,
+{id: 181, name: "Iridescent rhinestone multi-strand waist chain  ", category:"nec", price: 35000,
 image: "kb.jpg",
 images: ["k2.jpg",
 "ka.jpg",
 "kc.jpg"],
 },
 
+{id: 182, name: "", category:"nec", price: 35000,
+image: "nec.jpg",
+},
+
+{id: 183, name: "", category:"nec", price: 35000,
+image: "neca.jpg",
+},
+
+{id: 184, name: "", category:"nec", price: 35000,
+image: "necb.jpg",
+},
+{id: 185, name: "", category:"nec", price: 35000,
+image: "necc.jpg",
+},
 
 
+{id: 186, name: "", category:"nec", price: 35000,
+image: "necd.jpg",
+},
 
 ];
 
