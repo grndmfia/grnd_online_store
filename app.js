@@ -39,7 +39,12 @@ const SETTINGS = {
      image: "images/my-product.jpg"
    ------------------------------------------------------------ */
 const PRODUCTS = [
-    { id: 1, name: "Chrome Hearts   (Short Sleeved)", category: "drip", price: 50000,
+    
+{id: 192, name: "Chrome Hearts Cemetery belt", category:"drip", price: 80000,
+image: "beltch.jpeg",
+},
+
+{ id: 1, name: "Chrome Hearts   (Short Sleeved)", category: "drip", price: 50000,
       description: "Fine material with a real design. Available in all colours",
       image: "chrome.jpg",
       images: [ "chrome.jpg", "chromea.jpg", "chromeb.jpg", "chromec.jpg"],
