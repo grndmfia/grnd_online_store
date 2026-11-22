@@ -92,6 +92,7 @@ image: "beltch.jpeg",
 
 
 {id: 193, name: "Louis Vuitton x Timberland 6-Inch Ankle Boots ", category:"shoe", price: 350000,
+description:"luxury version of Timberland’s classic work boot, designed by Pharrell Williams for LV's Fall-Winter 2024 collection.",
 image: "timlv.jpg",
 images:["timlv.jpg"],
 },
